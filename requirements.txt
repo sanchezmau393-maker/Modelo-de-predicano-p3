@@ -1,0 +1,5 @@
+streamlit
+numpy
+pandas
+scipy
+nfl_data_py
