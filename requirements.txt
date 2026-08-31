@@ -1,4 +1,0 @@
-streamlit
-numpy
-pandas
-nfl_data_py
